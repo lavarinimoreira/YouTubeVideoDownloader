@@ -1,4 +1,4 @@
-This program recives an youtude url and download the video on the current folder.
+This program recives an youtude url and download the video in the current folder.
 
 
 --------------------------------------------------------------------------------
