@@ -14,6 +14,8 @@ pip install pytube
 - If you don't have the pip installed in your system, enter the following command:
 ```
 sudo apt update
+```
+```
 sudo apt install python3-pip
 ```
 - Then:
