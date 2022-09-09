@@ -8,7 +8,7 @@ url = input("Enter video url: ")
 # path = input("Enter path of storage")
 
 # Specify the storage path of the video.
-# By default de video will be downloaded in the current directore.
+# By default the video will be downloaded in the current directore.
 path = "."
 
 # Magic line to download the video
